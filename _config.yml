@@ -1,5 +1,5 @@
 theme: minima
 login: jacksonm75
-title: "{{site.login}} blog"
-description: "hello world!"
-author: "{{site.login}}"
+title: "jacksonm75 blog"
+description: "jacksonm75 的博客"
+author: "jacksonm75"
