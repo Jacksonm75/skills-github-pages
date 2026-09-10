@@ -1,0 +1,4 @@
+theme: minima
+title: {{login}} blog
+description: hellow world!
+author: {{login}}
