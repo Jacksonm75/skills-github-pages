@@ -1,4 +1,4 @@
 theme: minima
-title: {{login}} blog
+title: "{{login}}" blog
 description: hellow world!
-author: {{login}}
+author: "{{login}}"
