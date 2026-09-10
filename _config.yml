@@ -1,3 +1,4 @@
+login: jacksonm75
 theme: minima
 title: "{{login}} blog"
 description: "hellow world!"
