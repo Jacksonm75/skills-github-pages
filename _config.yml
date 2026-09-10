@@ -1,5 +1,5 @@
-login: jacksonm75
 theme: minima
-title: {{login}} blog"
-description: hello world!
-author: {{login}}
+login: "jacksonm75"
+title: "{{login}} blog"
+description: "hello world!"
+author: "{{login}}"
